@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//baverone//mtgvault torneios//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Torneios MTG (Baverone)
+X-WR-TIMEZONE:Europe/Lisbon
+BEGIN:VEVENT
+UID:6142f65h8q2oarsokfnq9rcbkh@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261121T100000
+DTEND;TZID=Europe/Lisbon:20261121T150000
+SUMMARY:LPP 3º Qualificador - End Turn
+LOCATION:End Turn\, Rua G Urbanizaçao dos\, R. Pinhais Bastos 49\, 4430-67
+ 9 Avintes\, Portugal
+DESCRIPTION:Pauper\nFonte: calendário «Torneios MTG» https://calendar.go
+ ogle.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48d
+ f006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:5lq8pb0hm8e434bmor4af71vms@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261122T100000
+DTEND;TZID=Europe/Lisbon:20261122T150000
+SUMMARY:RCQ Standard - FriendZone Lounge
+LOCATION:FriendZoneLounge\, R. de Anadia 69\, 3810-208 Aveiro\, Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:28uggmanns31t65r654h8eqv90@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T100000
+DTEND;TZID=Europe/Lisbon:20261128T150000
+SUMMARY:RCQ Standard - EndTurn
+LOCATION:End Turn\, Rua G Urbanizaçao dos\, R. Pinhais Bastos 49\, 4430-67
+ 9 Avintes\, Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:36uh7v5gqe9brs0a2gakhianka@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T102000
+DTEND;TZID=Europe/Lisbon:20261128T152000
+SUMMARY:RCQ Standard - Magus
+LOCATION:Loja de Jogos - MAGUS\, Rua Mário Cesariny\, Urb\, Rua Quinta da 
+ Maia 3375 Loja 2\, 4760-010 Vila Nova de Famalicão\, Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:25ejm3s7nebv3diu3qdksf1mt8@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T103000
+DTEND;TZID=Europe/Lisbon:20261128T153000
+SUMMARY:RCQ Standard - Lotus Valley
+LOCATION:Lotus Valley\, R. Cândido dos Reis\, 2630-233 Arruda dos Vinhos\,
+  Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:2d92mr2lm7n4fqftk42gldsg1g@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261129T093000
+DTEND;TZID=Europe/Lisbon:20261129T143000
+SUMMARY:RCQ Sealed TRK - Arena Porto
+LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:ew-2026@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:Eternal Weekend Europe 2026
+LOCATION:Lucca\, Itália
+DESCRIPTION:Legacy · Vintage · Pauper\nPaupergeddon sex 04/12 · Vintage 
+ Championship sex 04/12 · Legacy Championship sáb 05/12\nFonte: https://e
+ ternalweekendeu.4seasonstournaments.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:rc-bilbao-2027@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270215
+SUMMARY:Regional Championship Bilbao
+LOCATION:Bilbao\, Espanha
+DESCRIPTION:Regional Championship\nLido no calendário «Torneios MTG»\nFo
+ nte: https://calendar.google.com/calendar/u/0/embed?src=c1716b898c2fef32e8
+ e52f3fdd25043448c3c0a48df006c81d767d0d50a78b85@group.calendar.google.com&c
+ tz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:epm-2027-pt@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:EPM 2027 · Campeonato Nacional de Portugal
+LOCATION:Coimbra\, Portugal
+DESCRIPTION:Premodern\nPraça do Mercado\; qualificador nacional para o EPM
+  2027\; hora por anunciar\nFonte: https://premodernmasters.org/
+END:VEVENT
+END:VCALENDAR
