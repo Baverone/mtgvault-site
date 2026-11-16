@@ -82,9 +82,9 @@ DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261207
 SUMMARY:Eternal Weekend Europe 2026
 LOCATION:Lucca\, Itália
-DESCRIPTION:Legacy · Vintage · Pauper\nPaupergeddon sex 04/12 · Vintage 
- Championship sex 04/12 · Legacy Championship sáb 05/12\nFonte: https://e
- ternalweekendeu.4seasonstournaments.com/
+DESCRIPTION:Legacy · Vintage · Pauper\nPaupergeddon sex 04/12–sáb 05/1
+ 2 (2 dias) · Vintage Championship sex 04/12 · Legacy Championship sáb 0
+ 5/12\nFonte: https://eternalweekendeu.4seasonstournaments.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:rc-bilbao-2027@mtg.baverone.com
@@ -94,9 +94,9 @@ DTEND;VALUE=DATE:20270215
 SUMMARY:Regional Championship Bilbao
 LOCATION:Bilbao\, Espanha
 DESCRIPTION:Regional Championship\nLido no calendário «Torneios MTG»\nFo
- nte: https://calendar.google.com/calendar/u/0/embed?src=c1716b898c2fef32e8
- e52f3fdd25043448c3c0a48df006c81d767d0d50a78b85@group.calendar.google.com&c
- tz=Europe/Lisbon
+ nte: https://calendar.google.com/calendar/ical/c1716b898c2fef32e8e52f3fdd2
+ 5043448c3c0a48df006c81d767d0d50a78b85%40group.calendar.google.com/public/b
+ asic.ics
 END:VEVENT
 BEGIN:VEVENT
 UID:epm-2027-pt@mtg.baverone.com
