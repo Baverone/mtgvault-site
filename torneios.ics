@@ -53,6 +53,18 @@ DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
+UID:25ejm3s7nebv3diu3qdksf1mt8@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T103000
+DTEND;TZID=Europe/Lisbon:20261128T153000
+SUMMARY:RCQ Standard - Lotus Valley
+LOCATION:Lotus Valley\, R. Cândido dos Reis\, 2630-233 Arruda dos Vinhos\,
+  Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
 UID:6ss86mvdfo5ea13i7g8almn9g8@mtg.baverone.com
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T103000
@@ -66,13 +78,12 @@ DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
-UID:25ejm3s7nebv3diu3qdksf1mt8@mtg.baverone.com
+UID:2d92mr2lm7n4fqftk42gldsg1g@mtg.baverone.com
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261128T103000
-DTEND;TZID=Europe/Lisbon:20261128T153000
-SUMMARY:RCQ Standard - Lotus Valley
-LOCATION:Lotus Valley\, R. Cândido dos Reis\, 2630-233 Arruda dos Vinhos\,
-  Portugal
+DTSTART;TZID=Europe/Lisbon:20261129T093000
+DTEND;TZID=Europe/Lisbon:20261129T143000
+SUMMARY:RCQ Standard - Arena Porto
+LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
@@ -85,17 +96,6 @@ DTEND;TZID=Europe/Lisbon:20261129T143000
 SUMMARY:RCQ Standard - PlayHub
 LOCATION:PlayHub\, R. Eng. Aboim Sande de Lemos 8 A\, 8000-544 Faro\, Portu
  gal
-DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
- e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
- 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
-END:VEVENT
-BEGIN:VEVENT
-UID:2d92mr2lm7n4fqftk42gldsg1g@mtg.baverone.com
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261129T093000
-DTEND;TZID=Europe/Lisbon:20261129T143000
-SUMMARY:RCQ Standard - Arena Porto
-LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
