@@ -6,18 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Torneios MTG (Baverone)
 X-WR-TIMEZONE:Europe/Lisbon
 BEGIN:VEVENT
-UID:273hmc414vno5pqi9lgbvurr3g@mtg.baverone.com
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261121T100000
-DTEND;TZID=Europe/Lisbon:20261121T150000
-SUMMARY:LPP Last Chance Qualifier - End Turn
-LOCATION:End Turn\, Rua G Urbanizaçao dos\, R. Pinhais Bastos 49\, 4430-67
- 9 Avintes\, Portugal
-DESCRIPTION:Pauper\nFonte: calendário «Torneios MTG» https://calendar.go
- ogle.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48d
- f006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
-END:VEVENT
-BEGIN:VEVENT
 UID:5lq8pb0hm8e434bmor4af71vms@mtg.baverone.com
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261122T100000
