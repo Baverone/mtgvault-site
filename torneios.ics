@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Torneios MTG (Baverone)
 X-WR-TIMEZONE:Europe/Lisbon
 BEGIN:VEVENT
-UID:5lq8pb0hm8e434bmor4af71vms@mtg.baverone.com
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261122T100000
-DTEND;TZID=Europe/Lisbon:20261122T150000
-SUMMARY:RCQ Standard - FriendZone Lounge
-LOCATION:FriendZoneLounge\, R. de Anadia 69\, 3810-208 Aveiro\, Portugal
-DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
- e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
- 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
-END:VEVENT
-BEGIN:VEVENT
 UID:28uggmanns31t65r654h8eqv90@mtg.baverone.com
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T100000
