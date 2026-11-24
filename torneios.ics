@@ -44,24 +44,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6ss86mvdfo5ea13i7g8almn9g8@mtg.baverone.com
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261128T103000
-DTEND;TZID=Europe/Lisbon:20261128T153000
-SUMMARY:RCQ Standard - Templar
-LOCATION:Templars Arena Gamecenter (Lisboa)\, Urbanização Universidade Ca
- tólica Lote 30 Bloco D\,R/C A - Fração AB\, 2635-631 Rio de Mouro\, Por
- tugal
-DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
- e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
- 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
-END:VEVENT
-BEGIN:VEVENT
-UID:1ns7po0u2qv3a61t98i50rfagr@mtg.baverone.com
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261129T093000
-DTEND;TZID=Europe/Lisbon:20261129T143000
-SUMMARY:RCQ Standard - PlayHub
-LOCATION:PlayHub\, R. Eng. Aboim Sande de Lemos 8 A\, 8000-544 Faro\, Portu
- gal
+DTSTART;TZID=Europe/Lisbon:20261128T140000
+DTEND;TZID=Europe/Lisbon:20261128T190000
+SUMMARY:RCQ Standard - Templar Games
+LOCATION:Templar Games\, R. Centro Republicano 151\, Tomar\, Portugal
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
@@ -78,6 +64,18 @@ DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
+UID:1ns7po0u2qv3a61t98i50rfagr@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261129T133000
+DTEND;TZID=Europe/Lisbon:20261129T183000
+SUMMARY:RCQ Standard - PlayHub
+LOCATION:PlayHub\, R. Eng. Aboim Sande de Lemos 8 A\, 8000-544 Faro\, Portu
+ gal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
 UID:6142f65h8q2oarsokfnq9rcbkh@mtg.baverone.com
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261212T100000
@@ -88,6 +86,50 @@ LOCATION:Mercadia Games\, R. Cláudio Nunes Nº17A\, 1500-174 Lisboa\, Port
 DESCRIPTION:Pauper\nFonte: calendário «Torneios MTG» https://calendar.go
  ogle.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48d
  f006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:9mndlc4a4045567p6q0qji953c@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261213T100000
+DTEND;TZID=Europe/Lisbon:20261213T150000
+SUMMARY:RCQ Standard - Arena Porto
+LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:vfsc3p30e1jeha9sbmdt19n5v4@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20270110T100000
+DTEND;TZID=Europe/Lisbon:20270110T150000
+SUMMARY:RCQ Standard - Arena Porto
+LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:5beamsc9brpbue4f7lpha302rg@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20270207T100000
+DTEND;TZID=Europe/Lisbon:20270207T150000
+SUMMARY:RCQ Sealed Nauctis - Arena Porto
+LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:scnhn811ipc97okhqleqnkplis@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20270307T100000
+DTEND;TZID=Europe/Lisbon:20270307T150000
+SUMMARY:RCQ Standard - Arena Porto
+LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
 UID:ew-2026@mtg.baverone.com
