@@ -8,8 +8,8 @@ X-WR-TIMEZONE:Europe/Lisbon
 BEGIN:VEVENT
 UID:28uggmanns31t65r654h8eqv90@mtg.baverone.com
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261128T100000
-DTEND;TZID=Europe/Lisbon:20261128T150000
+DTSTART;TZID=Europe/Lisbon:20261128T093000
+DTEND;TZID=Europe/Lisbon:20261128T143000
 SUMMARY:RCQ Standard - EndTurn
 LOCATION:End Turn\, Rua G Urbanizaçao dos\, R. Pinhais Bastos 49\, 4430-67
  9 Avintes\, Portugal
@@ -20,8 +20,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:36uh7v5gqe9brs0a2gakhianka@mtg.baverone.com
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261128T102000
-DTEND;TZID=Europe/Lisbon:20261128T152000
+DTSTART;TZID=Europe/Lisbon:20261128T100000
+DTEND;TZID=Europe/Lisbon:20261128T150000
 SUMMARY:RCQ Standard - Magus
 LOCATION:Loja de Jogos - MAGUS\, Rua Mário Cesariny\, Urb\, Rua Quinta da 
  Maia 3375 Loja 2\, 4760-010 Vila Nova de Famalicão\, Portugal
@@ -32,8 +32,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:25ejm3s7nebv3diu3qdksf1mt8@mtg.baverone.com
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261128T103000
-DTEND;TZID=Europe/Lisbon:20261128T153000
+DTSTART;TZID=Europe/Lisbon:20261128T100000
+DTEND;TZID=Europe/Lisbon:20261128T150000
 SUMMARY:RCQ Standard - Lotus Valley
 LOCATION:Lotus Valley\, R. Cândido dos Reis\, 2630-233 Arruda dos Vinhos\,
   Portugal
@@ -88,10 +88,22 @@ DESCRIPTION:Pauper\nFonte: calendário «Torneios MTG» https://calendar.go
  f006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
+UID:af2545bd7cb04f798199f076382426c6@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T100000
+DTEND;TZID=Europe/Lisbon:20261212T150000
+SUMMARY:RCQ Standard - Magus
+LOCATION:Magus\, Rua Mário Cesariny\, Urb. Quinta da Maia\, Loja 2\, 4760-
+ 010 Vila Nova de Famalicão
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
 UID:9mndlc4a4045567p6q0qji953c@mtg.baverone.com
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261213T100000
-DTEND;TZID=Europe/Lisbon:20261213T150000
+DTSTART;TZID=Europe/Lisbon:20261213T093000
+DTEND;TZID=Europe/Lisbon:20261213T143000
 SUMMARY:RCQ Standard - Arena Porto
 LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
@@ -101,8 +113,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vfsc3p30e1jeha9sbmdt19n5v4@mtg.baverone.com
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20270110T100000
-DTEND;TZID=Europe/Lisbon:20270110T150000
+DTSTART;TZID=Europe/Lisbon:20270110T093000
+DTEND;TZID=Europe/Lisbon:20270110T143000
 SUMMARY:RCQ Standard - Arena Porto
 LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
@@ -112,8 +124,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5beamsc9brpbue4f7lpha302rg@mtg.baverone.com
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20270207T100000
-DTEND;TZID=Europe/Lisbon:20270207T150000
+DTSTART;TZID=Europe/Lisbon:20270207T093000
+DTEND;TZID=Europe/Lisbon:20270207T143000
 SUMMARY:RCQ Sealed Nauctis - Arena Porto
 LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
@@ -123,8 +135,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scnhn811ipc97okhqleqnkplis@mtg.baverone.com
 DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20270307T100000
-DTEND;TZID=Europe/Lisbon:20270307T150000
+DTSTART;TZID=Europe/Lisbon:20270307T093000
+DTEND;TZID=Europe/Lisbon:20270307T143000
 SUMMARY:RCQ Standard - Arena Porto
 LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
