@@ -18,18 +18,6 @@ DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
-UID:36uh7v5gqe9brs0a2gakhianka@mtg.baverone.com
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261128T100000
-DTEND;TZID=Europe/Lisbon:20261128T150000
-SUMMARY:RCQ Standard - Magus
-LOCATION:Loja de Jogos - MAGUS\, Rua Mário Cesariny\, Urb\, Rua Quinta da 
- Maia 3375 Loja 2\, 4760-010 Vila Nova de Famalicão\, Portugal
-DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
- e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
- 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
-END:VEVENT
-BEGIN:VEVENT
 UID:25ejm3s7nebv3diu3qdksf1mt8@mtg.baverone.com
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T100000
@@ -37,6 +25,30 @@ DTEND;TZID=Europe/Lisbon:20261128T150000
 SUMMARY:RCQ Standard - Lotus Valley
 LOCATION:Lotus Valley\, R. Cândido dos Reis\, 2630-233 Arruda dos Vinhos\,
   Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:g6qofpebr57e16ihl7595a5gs8@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T100000
+DTEND;TZID=Europe/Lisbon:20261128T150000
+SUMMARY:Road to Nationals Premodern - Versus Gamecenter
+LOCATION:Versus Gamecenter\, Rua Conselheiro Lopo Vaz\, Lote C\, Loja A\, 1
+ 800-142 Lisboa
+DESCRIPTION:Premodern\nFonte: calendário «Torneios MTG» https://calendar
+ .google.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a
+ 48df006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:36uh7v5gqe9brs0a2gakhianka@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T100000
+DTEND;TZID=Europe/Lisbon:20261128T150000
+SUMMARY:RCQ Standard - Magus
+LOCATION:Loja de Jogos - MAGUS\, Rua Mário Cesariny\, Urb\, Rua Quinta da 
+ Maia 3375 Loja 2\, 4760-010 Vila Nova de Famalicão\, Portugal
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
@@ -74,6 +86,17 @@ LOCATION:PlayHub\, R. Eng. Aboim Sande de Lemos 8 A\, 8000-544 Faro\, Portu
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:spdloqog79ounmrrvhoni6c3p4@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Road to Nationals Premodern - Taberna Topdeck
+LOCATION:Taberna Topdeck\, Rua do Brasil 98\, 3030-775 Coimbra
+DESCRIPTION:Premodern\nFonte: calendário «Torneios MTG» https://calendar
+ .google.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a
+ 48df006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
 UID:6142f65h8q2oarsokfnq9rcbkh@mtg.baverone.com
@@ -122,6 +145,29 @@ DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
+UID:pb8da20hu7s9vipvm6eibj438g@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Road to Nationals Premodern - Player's Spot
+LOCATION:Player's Spot\, Rua Prof. Joaquim Vicente França 85\, 2830-298 Ba
+ rreiro
+DESCRIPTION:Premodern\nFonte: calendário «Torneios MTG» https://calendar
+ .google.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a
+ 48df006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:vfi4qppomv9880hfnvts2dsi50@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Road to Nationals Premodern - GG Lounge
+LOCATION:GG Lounge\, Rua de São Pedro 52\, Cave B\, 3500-696 Viseu
+DESCRIPTION:Premodern\nFonte: calendário «Torneios MTG» https://calendar
+ .google.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a
+ 48df006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
 UID:5beamsc9brpbue4f7lpha302rg@mtg.baverone.com
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20270207T093000
@@ -142,6 +188,17 @@ LOCATION:Arena Porto\, R. de Santa Catarina 801\, 4000-454 Porto\, Portugal
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:au3a6eqcldu0jfic7m5gdurfvs@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Road to Nationals Premodern - Mulligan Faro
+LOCATION:Mulligan Faro\, Estrada de São Luís 70A\, 8000-123 Faro
+DESCRIPTION:Premodern\nFonte: calendário «Torneios MTG» https://calendar
+ .google.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a
+ 48df006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
 UID:ew-2026@mtg.baverone.com
