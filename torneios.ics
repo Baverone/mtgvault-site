@@ -18,18 +18,6 @@ DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
-UID:25ejm3s7nebv3diu3qdksf1mt8@mtg.baverone.com
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261128T100000
-DTEND;TZID=Europe/Lisbon:20261128T150000
-SUMMARY:RCQ Standard - Lotus Valley
-LOCATION:Lotus Valley\, R. Cândido dos Reis\, 2630-233 Arruda dos Vinhos\,
-  Portugal
-DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
- e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
- 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
-END:VEVENT
-BEGIN:VEVENT
 UID:g6qofpebr57e16ihl7595a5gs8@mtg.baverone.com
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T100000
@@ -49,6 +37,18 @@ DTEND;TZID=Europe/Lisbon:20261128T150000
 SUMMARY:RCQ Standard - Magus
 LOCATION:Loja de Jogos - MAGUS\, Rua Mário Cesariny\, Urb\, Rua Quinta da 
  Maia 3375 Loja 2\, 4760-010 Vila Nova de Famalicão\, Portugal
+DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
+ e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
+ 6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:25ejm3s7nebv3diu3qdksf1mt8@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T100000
+DTEND;TZID=Europe/Lisbon:20261128T150000
+SUMMARY:RCQ Standard - Lotus Valley
+LOCATION:Lotus Valley\, R. Cândido dos Reis\, 2630-233 Arruda dos Vinhos\,
+  Portugal
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
@@ -90,8 +90,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:spdloqog79ounmrrvhoni6c3p4@mtg.baverone.com
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
+DTSTART;TZID=Europe/Lisbon:20261205T103000
+DTEND;TZID=Europe/Lisbon:20261205T153000
 SUMMARY:Road to Nationals Premodern - Taberna Topdeck
 LOCATION:Taberna Topdeck\, Rua do Brasil 98\, 3030-775 Coimbra
 DESCRIPTION:Premodern\nFonte: calendário «Torneios MTG» https://calendar
