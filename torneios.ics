@@ -18,18 +18,6 @@ DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
-UID:g6qofpebr57e16ihl7595a5gs8@mtg.baverone.com
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261128T100000
-DTEND;TZID=Europe/Lisbon:20261128T150000
-SUMMARY:Road to Nationals Premodern - Versus Gamecenter
-LOCATION:Versus Gamecenter\, Rua Conselheiro Lopo Vaz\, Lote C\, Loja A\, 1
- 800-142 Lisboa
-DESCRIPTION:Premodern\nFonte: calendário «Torneios MTG» https://calendar
- .google.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a
- 48df006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
-END:VEVENT
-BEGIN:VEVENT
 UID:36uh7v5gqe9brs0a2gakhianka@mtg.baverone.com
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261128T100000
@@ -40,6 +28,18 @@ LOCATION:Loja de Jogos - MAGUS\, Rua Mário Cesariny\, Urb\, Rua Quinta da
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:g6qofpebr57e16ihl7595a5gs8@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261128T100000
+DTEND;TZID=Europe/Lisbon:20261128T150000
+SUMMARY:Road to Nationals Premodern - Versus Gamecenter
+LOCATION:Versus Gamecenter\, Rua Conselheiro Lopo Vaz\, Lote C\, Loja A\, 1
+ 800-142 Lisboa
+DESCRIPTION:Premodern\nFonte: calendário «Torneios MTG» https://calendar
+ .google.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a
+ 48df006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
 UID:25ejm3s7nebv3diu3qdksf1mt8@mtg.baverone.com
@@ -99,18 +99,6 @@ DESCRIPTION:Premodern\nFonte: calendário «Torneios MTG» https://calendar
  48df006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
-UID:6142f65h8q2oarsokfnq9rcbkh@mtg.baverone.com
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Lisbon:20261212T100000
-DTEND;TZID=Europe/Lisbon:20261212T150000
-SUMMARY:Final LPP - Mercadia Games
-LOCATION:Mercadia Games\, R. Cláudio Nunes Nº17A\, 1500-174 Lisboa\, Port
- ugal
-DESCRIPTION:Pauper\nFonte: calendário «Torneios MTG» https://calendar.go
- ogle.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48d
- f006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
-END:VEVENT
-BEGIN:VEVENT
 UID:af2545bd7cb04f798199f076382426c6@mtg.baverone.com
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Lisbon:20261212T100000
@@ -121,6 +109,18 @@ LOCATION:Magus\, Rua Mário Cesariny\, Urb. Quinta da Maia\, Loja 2\, 4760-
 DESCRIPTION:RCQ\nFonte: calendário «Torneios MTG» https://calendar.googl
  e.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48df00
  6c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
+END:VEVENT
+BEGIN:VEVENT
+UID:6142f65h8q2oarsokfnq9rcbkh@mtg.baverone.com
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Lisbon:20261212T100000
+DTEND;TZID=Europe/Lisbon:20261212T150000
+SUMMARY:Final LPP - Mercadia Games
+LOCATION:Mercadia Games\, R. Cláudio Nunes Nº17A\, 1500-174 Lisboa\, Port
+ ugal
+DESCRIPTION:Pauper\nFonte: calendário «Torneios MTG» https://calendar.go
+ ogle.com/calendar/u/0/embed?src=c1716b898c2fef32e8e52f3fdd25043448c3c0a48d
+ f006c81d767d0d50a78b85@group.calendar.google.com&ctz=Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
 UID:9mndlc4a4045567p6q0qji953c@mtg.baverone.com
